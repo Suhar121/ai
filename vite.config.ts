@@ -15,7 +15,8 @@ export default defineConfig(({ mode }) => {
     },
     server: {
       allowedHosts: [
-        '23eab89c2b10.ngrok-free.app' // ✅ allow ngrok host
+        '23eab89c2b10.ngrok-free.app',
+         'https://glittering-quokka-28ad5c.netlify.app/' // ✅ allow ngrok host
       ]
     }
   };
