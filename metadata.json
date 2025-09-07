@@ -1,0 +1,5 @@
+{
+  "name": "Wildfloc Adventures - Tour Planner",
+  "description": "An intelligent tour package calculator for Wildfloc Adventures that generates personalized travel itineraries and pricing using Gemini. Users can specify their destination, duration, hotel preference, and number of travelers to receive a detailed, day-by-day plan.",
+  "requestFramePermissions": []
+}
